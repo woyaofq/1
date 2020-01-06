@@ -11,5 +11,5 @@
 <p><a href="https://raw.githubusercontent.com/opipe/up/master/oGate.zip">网门（电脑版）</a></p>	
 <p><a href="https://github.com/odoor2/oo/blob/master/README.md">网门（网页版）</a></p>	
 <p><a href="https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgate.apk?fldfh2">神州正道（安卓版）</a></p>	
-<p><a href="https://raw.githubusercontent.com/hxrfvz257/www/master/szzd/szzdogate.rar?fldfh2">神州正道（网页版）</a></p>	
+<p><a href="https://raw.githubusercontent.com/txyzum203/www/master/szzd/szzdogate.rar?fldfh2">神州正道（网页版）</a></p>	
 <p>如有疑问可联系邮箱woyaofq@gmx.com </a></p>	

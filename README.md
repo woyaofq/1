@@ -13,7 +13,7 @@
 <p><a href="https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgate.apk?fldfh2">神州正道（安卓版）</a></p>	
 <p><a href="https://raw.githubusercontent.com/txyzum203/www/master/szzd/szzdogate.rar?fldfh2">神州正道（网页版）</a></p>	
 <p>如有疑问可联系邮箱woyaofq@gmx.com </a></p>	
-大疫来时心莫慌,
-牢记“法轮大法好”,
-心中常念“真善忍”,
-绝处逢生平安保。
+<p>大疫来时心莫慌,</p>	
+<p>牢记“法轮大法好”,</p>	
+<p>心中常念“真善忍”,</p>	
+<p>绝处逢生平安保。</p>	

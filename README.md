@@ -1,6 +1,6 @@
 # 翻墙软件下载：	
 <p><a href="https://github.com/woyaofq/xz/raw/master/u1902.exe">无界（电脑版）</a></p>	
-<p><a href="https://github.com/woyaofq/xz/raw/master/um4.7.apk">无界（安卓版）</a></p>	
+<p><a href="https://github.com/woyaofq/xz/raw/master/um4.7a.apk">无界（安卓版）</a></p>	
 <p><a href="https://github.com/woyaofq/xz/raw/master/fg772p.exe">自由门（电脑版）</a></p>	
 <p><a href="https://github.com/woyaofq/xz/raw/master/fgma.apk">自由门（安卓版）</a></p>	
 <p><a href="https://raw.githubusercontent.com/opipe/up/master/oPipe.zip">环通（电脑版）</a></p>	

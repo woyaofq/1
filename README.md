@@ -12,7 +12,8 @@
 <p><a href="https://cdn.jsdelivr.net/gh/opipe/up/oGate.zip">环门（电脑版）</a></p>	
 <p><a href="https://github.com/odoor2/oo/blob/master/README.md">网门（网页版）</a></p>	
 <p><a href="https://cdn.jsdelivr.net/gh/czicxj2368/www/szzd/SzzdOgate.apk">神州正道（安卓版）</a></p>	
-<p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/szzdogate_v4.7.html">神州正道（网页版）</a></p>	
+<p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/szzdogate.rar">神州正道（网页版）</a></p>	
+<p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/oHopea.apk">希望之声（安卓版）</a></p>	
 <p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/疫情特刊.pdf">疫情特刊</a></p>	
 <p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/逃生有秘诀.pdf">逃生有秘诀</a></p>	
 <p>如有疑问可联系邮箱woyaofq@gmx.com </a></p>	

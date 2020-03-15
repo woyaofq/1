@@ -3,7 +3,7 @@
 <p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/um4.6.apk">无界（安卓版）</a></p>	
 <p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/fg776p.zip">自由门（电脑版）</a></p>	
 <p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/fgma.apk">自由门（安卓版）</a></p>	
-<p><a href="https://raw.githubusercontent.com/opipe/up/master/oPipe.zip">环通（电脑版）</a></p>	
+<p><a href="https://c.gmx.com/@581349651072948243/d1X2UiPETYy9O6LNt9nhfg">环通（电脑版）</a></p>	
 <p><a href="https://cdn.jsdelivr.net/gh/opipe/up/oPipe.apk">环通（安卓版）</a></p>	
 <p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/psiphon3.zip">赛风（电脑版）</a></p>	
 <p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/PsiphonAndroid.apk">赛风（安卓版）</a></p>	

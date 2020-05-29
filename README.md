@@ -18,6 +18,6 @@
 <p><a href="https://github.com/fqcdn/fq/releases/download/v1.0.0/epoch_access-1.0.1-mac.zip">epoch（Mac版）</a></p>	
 <p><a href="https://github.com/fqcdn/fq/releases/download/v1.0.0/epoch_access-1.0.1-linux64.tar.xz">epoch（Linux版）</a></p>	
 <h1><p>疫情：</p></h1>	
-<p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/疫情周报5.pdf">疫情周报</a></p>	
+<p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/疫情周报8.pdf">疫情周报</a></p>	
 <p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/天赐洪福14.pdf">天赐洪福</a></p>	
 <p>如有疑问可联系邮箱woyaofq@gmx.com </a></p>	

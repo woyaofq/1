@@ -14,9 +14,8 @@
 <p><a href="https://gitlab.com/szzdlab/w/raw/master/szzd/SzzdOgate.apk">神州正道（安卓版）</a></p>	
 <p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/szzdogate.rar">神州正道（网页版）</a></p>	
 <p>Fair VPN 苹果版：安装方法1（推荐）：</p>
-<p>&nbsp;&nbsp;先在苹果机上点击并安装<a href="https://apps.apple.com/us/app/testflight/id899247664">TestFlight</a>软件，然后<a href="https://testflight.apple.com/join/ujJHIPxq">点击此处</a>安装。</p>
- &nbsp;<p>安装方法2：</p>
- &nbsp;&nbsp;<p>用中国以外地区苹果帐号登录应用商店，然后<a href="https://apps.apple.com/us/app/id1533873488">点击此处</a>安装。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;先在苹果机上点击并安装<a href="https://apps.apple.com/us/app/testflight/id899247664">TestFlight</a>软件，然后<a href="https://testflight.apple.com/join/ujJHIPxq">点击此处</a>安装。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安装方法2：用中国以外地区苹果帐号登录应用商店，然后<a href="https://apps.apple.com/us/app/id1533873488">点击此处</a>安装。</p>
 <p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/oHopea004.apk">希望之声（安卓版）</a></p>	
 <p><a href="https://apps.apple.com/us/app/soh/id830022184?ign-mpt=uo%3D4">希望之声（苹果版）</a></p>	
 <p><a href="https://github.com/fqcdn/fq/releases/download/v1.0.0/fq.apk">epoch（安卓版）</a></p>

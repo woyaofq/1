@@ -9,7 +9,7 @@
 <p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/psiphon3.zip">赛风（电脑版）</a></p>	
 <p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/PsiphonAndroid.apk">赛风（安卓版）</a></p>	
 <p><a href="https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8">赛风（苹果版）</a></p>	
-<p><a href="https://itunes.apple.com/us/app/psiphon-browser/id1193362444?ls=1&mt=8">赛风浏览器(苹果版)</a></p>	
+<p><a href="https://itunes.apple.com/us/app/psiphon-browser/id1193362444?ls=1&mt=8">赛风浏览器（苹果版）</a></p>	
 <h1><p>看海外新闻：</p></h1>	
 <p><a href="https://cdn.jsdelivr.net/gh/opipe/up/oGatea.apk">环门（安卓版）</a></p>	
 <p><a href="https://cdn.jsdelivr.net/gh/opipe/up/oGate.zip">环门（电脑版）</a></p>	

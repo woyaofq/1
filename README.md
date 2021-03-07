@@ -13,7 +13,7 @@
 <h1><p>看海外新闻：</p></h1>	
 <p><a href="https://cdn.jsdelivr.net/gh/opipe/up/oGatea051.apk">环门（安卓版）</a></p>	
 <p><a href="https://cdn.jsdelivr.net/gh/opipe/up/oGate.zip">环门（电脑版）</a></p>	
-<p><a href="https://cdn.jsdelivr.net/gh/xazhws3249/www/szzd/SzzdOgate.apk">神州正道（安卓版）</a></p>	
+<p><a href="https://cdn.jsdelivr.net/gh/xazhws3249/www/szzd/SzzdOgate.apk">神州明见（安卓版）</a></p>	
 <p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/szzdogate.rar">神州正道（网页版）</a></p>	
 <p>Fair VPN 苹果版：</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安装方法1（推荐）：先在苹果机上点击并安装<a href="https://apps.apple.com/us/app/testflight/id899247664">TestFlight</a>软件，然后<a href="https://testflight.apple.com/join/ujJHIPxq">点击此处</a>安装。</p>

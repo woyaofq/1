@@ -2,7 +2,7 @@
 # 翻墙软件下载：	
 <p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/u1902.zip">无界（电脑版）</a></p>	
 <p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/U49.apk">无界（安卓版）</a></p>	
-<p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/fg794p.zip">自由门（电脑版）</a></p>	
+<p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/fg795p.zip">自由门（电脑版）</a></p>	
 <p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/fgma43.apk">自由门（安卓版）</a></p>	
 <p><a href="https://raw.githubusercontent.com/opipe/up/master/oPipe.zip">环通（电脑版）</a></p>	
 <p><a href="https://cdn.jsdelivr.net/gh/opipe/up/oPipea005.apk">环通（安卓版）</a></p>	
@@ -11,9 +11,9 @@
 <p><a href="https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8">赛风（苹果版）</a></p>	
 <p><a href="https://itunes.apple.com/us/app/psiphon-browser/id1193362444?ls=1&mt=8">赛风浏览器（苹果版）</a></p>	
 <h1><p>看海外新闻：</p></h1>	
-<p><a href="https://cdn.jsdelivr.net/gh/opipe/up/oGatea.apk">环门（安卓版）</a></p>	
+<p><a href="https://cdn.jsdelivr.net/gh/opipe/up/oGatea051.apk">环门（安卓版）</a></p>	
 <p><a href="https://cdn.jsdelivr.net/gh/opipe/up/oGate.zip">环门（电脑版）</a></p>	
-<p><a href="https://gitlab.com/szzdlab/w/raw/master/szzd/SzzdOgate.apk">神州正道（安卓版）</a></p>	
+<p><a href="https://cdn.jsdelivr.net/gh/xazhws3249/www/szzd/SzzdOgate.apk">神州正道（安卓版）</a></p>	
 <p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/szzdogate.rar">神州正道（网页版）</a></p>	
 <p>Fair VPN 苹果版：</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安装方法1（推荐）：先在苹果机上点击并安装<a href="https://apps.apple.com/us/app/testflight/id899247664">TestFlight</a>软件，然后<a href="https://testflight.apple.com/join/ujJHIPxq">点击此处</a>安装。</p>

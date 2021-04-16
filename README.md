@@ -3,8 +3,8 @@
 |  工具  | 安卓版  | 电脑版  | 苹果版  |  
 |  ----  | ----   | ----  |----  |  
 | 无界  | [U49](https://cdn.jsdelivr.net/gh/woyaofq/xz/U49.apk) | [u1902](https://cdn.jsdelivr.net/gh/woyaofq/xz/u1902.zip)  |   - |  
-<p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/fg795p.zip">自由门（电脑版）</a></p>	
-<p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/fgma.apk">自由门（安卓版）</a></p>	
+| 自由门  | [fgma](https://cdn.jsdelivr.net/gh/woyaofq/xz/fgma.apk)、[fgvpn](https://cdn.jsdelivr.net/gh/woyaofq/xz/fgvpn.apk) | [fg795p](https://cdn.jsdelivr.net/gh/woyaofq/xz/fg795p.zip)  |   - |  
+
 <p><a href="https://raw.githubusercontent.com/opipe/up/master/oPipe.zip">环通（电脑版）</a></p>	
 <p><a href="https://cdn.jsdelivr.net/gh/opipe/up/oPipea006.apk">环通（安卓版）</a></p>	
 <p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/psiphon3.zip">赛风（电脑版）</a></p>	

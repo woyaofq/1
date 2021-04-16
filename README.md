@@ -17,7 +17,7 @@
 | 希望之声  | [oHopea](https://cdn.jsdelivr.net/gh/woyaofq/xz/oHopea004.apk) | - |  [SOH](https://apps.apple.com/us/app/soh/id830022184?ign-mpt=uo%3D4)|  
 | epoch  | [epoch](https://github.com/fqcdn/fq/releases/download/v1.0.0/fq.apk) | [epoch](https://github.com/fqcdn/fq/releases/download/v1.0.0/epoch_access-1.0.1-win32.zip)  |  [epoch(mac版)](https://github.com/fqcdn/fq/releases/download/v1.0.0/epoch_access-1.0.1-mac.zip)|  
 
-<img src="https://raw.githubusercontent.com/woyaofq/xz/master/2.jpg">
+<img src="https://raw.githubusercontent.com/woyaofq/xz/master/3.jpg">
 
 <p>Fair VPN 苹果版：</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安装方法1（推荐）：先在苹果机上点击并安装<a href="https://apps.apple.com/us/app/testflight/id899247664">TestFlight</a>软件，然后<a href="https://testflight.apple.com/join/Ao0G8UZD">点击此处</a>安装。</p>

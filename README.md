@@ -3,7 +3,7 @@
 |  工具  | 安卓版  | 电脑版  | 苹果版  |  
 |  ----  | ----   | ----  |----  |  
 | 无界  | [无界一点通](https://cdn.jsdelivr.net/gh/woyaofq/xz/U49.apk) | [无界浏览](https://cdn.jsdelivr.net/gh/woyaofq/xz/u1902.zip)  |   - |  
-| 自由门  | [fgma](https://cdn.jsdelivr.net/gh/woyaofq/xz/fgma.apk)、[fgvpn](https://cdn.jsdelivr.net/gh/woyaofq/xz/fgvpn.apk) | [fg795p](https://cdn.jsdelivr.net/gh/woyaofq/xz/fg795p.zip)  |   - |  
+| 自由门  | [自由门安卓版](https://cdn.jsdelivr.net/gh/woyaofq/xz/fgma.apk)、[自由门VPN版](https://cdn.jsdelivr.net/gh/woyaofq/xz/fgvpn.apk) | [自由门](https://cdn.jsdelivr.net/gh/woyaofq/xz/fg795p.zip)  |   - |  
 | 环通  | [oPipea](https://cdn.jsdelivr.net/gh/opipe/up/oPipea006.apk) | [oPipe](https://raw.githubusercontent.com/opipe/up/master/oPipe.zip)  |   - |  
 | 赛风  | [Psiphon](https://cdn.jsdelivr.net/gh/woyaofq/xz/PsiphonAndroid.apk) | [psiphon](https://cdn.jsdelivr.net/gh/woyaofq/xz/psiphon3.zip)  |  [psiphon](https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8)、 [psiphon浏览器](https://itunes.apple.com/us/app/psiphon-browser/id1193362444?ls=1&mt=8)|  
 

@@ -7,7 +7,7 @@
 | 环通  | [oPipea](https://cdn.jsdelivr.net/gh/opipe/up/oPipea006.apk) | [oPipe](https://raw.githubusercontent.com/opipe/up/master/oPipe.zip)  |   - |  
 | 赛风  | [Psiphon](https://cdn.jsdelivr.net/gh/woyaofq/xz/PsiphonAndroid.apk) | [psiphon](https://cdn.jsdelivr.net/gh/woyaofq/xz/psiphon3.zip)  |  [psiphon](https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8)、 [psiphon浏览器](https://itunes.apple.com/us/app/psiphon-browser/id1193362444?ls=1&mt=8)|  
 
-看海外新闻：
+看海外新闻专用：
 |  工具  | 安卓版  | 电脑版  | 苹果版  |  
 |  ----  | ----   | ----  |----  |  
 | 环门  | [oGatea](https://cdn.jsdelivr.net/gh/opipe/up/oGatea053.apk) | [oGate](https://cdn.jsdelivr.net/gh/opipe/up/oGate.zip)  |  -|  

@@ -1,6 +1,6 @@
 # 翻墙看真相 越看越明白
 <img src="https://raw.githubusercontent.com/msttva3292/www/master/t/lh600.jpg"><br>
-翻墙软件下载：	
+免费翻墙软件下载：	
 |  工具  | 安卓版  | 电脑版  | 苹果版  |  
 |  ----  | ----   | ----  |----  |  
 | 无界  | [无界一点通](https://cdn.jsdelivr.net/gh/woyaofq/xz/U49.apk) | [无界浏览](https://cdn.jsdelivr.net/gh/woyaofq/xz/u1902.zip)  |   - |  

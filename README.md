@@ -14,7 +14,7 @@
 |  ----  | ----   | ----  |----  |  
 | 环门  | [oGatea](https://cdn.jsdelivr.net/gh/opipe/up/oGatea053.apk) | [oGate](https://cdn.jsdelivr.net/gh/opipe/up/oGate.zip)  |  -|  
 | 神州明见  | [神州明见](https://cdn.jsdelivr.net/gh/xazhws3249/www/szzd/SzzdOgate.apk) | - |  -|  
-| 希望之声  | [希望之声](https://cdn.jsdelivr.net/gh/woyaofq/xz/oHopea004.apk) | - |  [希望之声](https://apps.apple.com/us/app/soh/id830022184?ign-mpt=uo%3D4)|  
+| 希望之声  | [oHopea](https://cdn.jsdelivr.net/gh/woyaofq/xz/oHopea004.apk) | - |  [SOH](https://apps.apple.com/us/app/soh/id830022184?ign-mpt=uo%3D4)|  
 | epoch  | [epoch](https://github.com/fqcdn/fq/releases/download/v1.0.0/fq.apk) | [epoch](https://github.com/fqcdn/fq/releases/download/v1.0.0/epoch_access-1.0.1-win32.zip)  |  [epoch(mac版)](https://github.com/fqcdn/fq/releases/download/v1.0.0/epoch_access-1.0.1-mac.zip)|  
 
 <img src="https://raw.githubusercontent.com/woyaofq/xz/master/2.jpg">

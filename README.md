@@ -1,5 +1,5 @@
 # 翻墙看真相 越看越明白
-<img src="https://raw.githubusercontent.com/msttva3292/www/master/t/lh600.jpg"><br>
+
 免费翻墙软件下载：	
 |  工具  | 安卓版  | 电脑版  | 苹果版  |  
 |  ----  | ----   | ----  |----  |  
@@ -17,6 +17,7 @@
 | 希望之声  | [希望之声](https://cdn.jsdelivr.net/gh/woyaofq/xz/oHopea004.apk) | - |  [希望之声](https://apps.apple.com/us/app/soh/id830022184?ign-mpt=uo%3D4)|  
 | epoch  | [epoch](https://github.com/fqcdn/fq/releases/download/v1.0.0/fq.apk) | [epoch](https://github.com/fqcdn/fq/releases/download/v1.0.0/epoch_access-1.0.1-win32.zip)  |  [epoch(mac版)](https://github.com/fqcdn/fq/releases/download/v1.0.0/epoch_access-1.0.1-mac.zip)|  
 
+<img src="https://raw.githubusercontent.com/msttva3292/www/master/t/lh600.jpg"><br>
 其他：
 <p>Fair VPN 苹果版：</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安装方法1（推荐）：先在苹果机上点击并安装<a href="https://apps.apple.com/us/app/testflight/id899247664">TestFlight</a>软件，然后<a href="https://testflight.apple.com/join/Ao0G8UZD">点击此处</a>安装。</p>

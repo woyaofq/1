@@ -8,6 +8,8 @@
 | 赛风  | [Psiphon](https://cdn.jsdelivr.net/gh/woyaofq/xz/PsiphonAndroid.apk) | [psiphon](https://cdn.jsdelivr.net/gh/woyaofq/xz/psiphon3.zip)  |  [psiphon](https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8)、 [psiphon浏览器](https://itunes.apple.com/us/app/psiphon-browser/id1193362444?ls=1&mt=8)|  
 
 <h1><p>看海外新闻：</p></h1>	
+|  工具  | 安卓版  | 电脑版  | 苹果版  |  
+|  ----  | ----   | ----  |----  |  
 | 环门  | [oGatea](https://cdn.jsdelivr.net/gh/opipe/up/oGatea053.apk) | [oGate](https://cdn.jsdelivr.net/gh/opipe/up/oGate.zip)  |  -|  
 | 神州明见  | [神州明见](https://cdn.jsdelivr.net/gh/xazhws3249/www/szzd/SzzdOgate.apk) | - |  -|  
 | 希望之声  | [希望之声](https://cdn.jsdelivr.net/gh/woyaofq/xz/oHopea004.apk) | - |  [希望之声](https://apps.apple.com/us/app/soh/id830022184?ign-mpt=uo%3D4)|  

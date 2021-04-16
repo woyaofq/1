@@ -1,5 +1,5 @@
 # 翻墙看真相 越看越明白
-# 翻墙软件下载：	
+翻墙软件下载：	
 |  工具  | 安卓版  | 电脑版  | 苹果版  |  
 |  ----  | ----   | ----  |----  |  
 | 无界  | [U49](https://cdn.jsdelivr.net/gh/woyaofq/xz/U49.apk) | [u1902](https://cdn.jsdelivr.net/gh/woyaofq/xz/u1902.zip)  |   - |  
@@ -7,7 +7,7 @@
 | 环通  | [oPipea](https://cdn.jsdelivr.net/gh/opipe/up/oPipea006.apk) | [oPipe](https://raw.githubusercontent.com/opipe/up/master/oPipe.zip)  |   - |  
 | 赛风  | [Psiphon](https://cdn.jsdelivr.net/gh/woyaofq/xz/PsiphonAndroid.apk) | [psiphon](https://cdn.jsdelivr.net/gh/woyaofq/xz/psiphon3.zip)  |  [psiphon](https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8)、 [psiphon浏览器](https://itunes.apple.com/us/app/psiphon-browser/id1193362444?ls=1&mt=8)|  
 
-# 看海外新闻：
+看海外新闻：
 |  工具  | 安卓版  | 电脑版  | 苹果版  |  
 |  ----  | ----   | ----  |----  |  
 | 环门  | [oGatea](https://cdn.jsdelivr.net/gh/opipe/up/oGatea053.apk) | [oGate](https://cdn.jsdelivr.net/gh/opipe/up/oGate.zip)  |  -|  

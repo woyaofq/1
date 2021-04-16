@@ -1,5 +1,9 @@
 # 翻墙看真相 越看越明白
 # 翻墙软件下载：	
+|  工具  | Android  | Windows  | iOS  |  
+|  ----  | ----   | ----  |----  |  
+| v2ray  | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.4.12/v2rayNG_1.4.12_arm64-v8a.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip) | [OneClick](https://oneclick.earth/) |  
+| ssr  |[shadowsocksr-android](https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.4/shadowsocksr-android-3.5.4.apk) | [shadowsocksr-windows](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases/download/4.7.0/ShadowsocksR-4.7.0-win.7z) | - |  
 <p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/u1902.zip">无界（电脑版）</a></p>	
 <p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/U49.apk">无界（安卓版）</a></p>	
 <p><a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/fg795p.zip">自由门（电脑版）</a></p>	

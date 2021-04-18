@@ -19,7 +19,9 @@
 
 <img src="https://raw.githubusercontent.com/woyaofq/xz/master/3.jpg">
 
-<p>Fair VPN 苹果版：</p>
+网页看新闻：<p><a href="https://github.com/odoor3/oo/blob/master/README.md">网门（网页精简版）</a></p>、<p><a href="https://github.com/szzd1/2">新闻热点</a></p>
+                
+<p>Fair VPN (苹果版)：</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安装方法1（推荐）：先在苹果机上点击并安装<a href="https://apps.apple.com/us/app/testflight/id899247664">TestFlight</a>软件，然后<a href="https://testflight.apple.com/join/Ao0G8UZD">点击此处</a>安装。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安装方法2：用中国以外地区苹果帐号登录应用商店，然后<a href="https://apps.apple.com/us/app/id1533873488">点击此处</a>安装。</p>
 <p>如有疑问可联系邮箱woyaofq@gmx.com </a></p>	

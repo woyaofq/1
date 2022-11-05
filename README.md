@@ -11,7 +11,7 @@
 
 |  工具  | 安卓版  | 电脑版  | 苹果版  |  
 |  ----  | ----   | ----  |----  |  
-| 神州明见  | [神州明见](https://gitlab.com/shenzhouzhengdao/w/raw/master/szzd/SzzdOgate.apk) | - |  -|  
+| 神州明见  | [神州明见](https://cdn.jsdelivr.net/gh/woyaofq/xz/v6.2.apk) | - |  -|  
 | 聚缘阁  | [聚缘阁](https://gitlab.com/j25414/jyg/-/raw/master/j714.apk) | [聚缘阁](https://gitlab.com/juyuange/2/-/raw/master/j325dn.rar) |  -|  
 | 退党中心  | [退党中心](https://cdn.jsdelivr.net/gh/woyaofq/xz/td-sj.zip) | [退党中心](https://github.com/woyaofq/xz/releases/download/td/td-pc.zip) |  [退党中心](https://github.com/woyaofq/td-ios) |  
 | 希望之声  | [oHopea](https://cdn.jsdelivr.net/gh/woyaofq/xz/oHopea004.apk) | - |  [SOH](https://apps.apple.com/us/app/soh/id830022184?ign-mpt=uo%3D4)|  
@@ -19,6 +19,6 @@
 
 <img src="https://raw.githubusercontent.com/woyaofq/xz/master/3.jpg">
 
-网页看新闻：<a href="https://github.com/szzd1/2">新闻热点</a>、<a href="https://bitbucket.org/ewwmakye/mo/src/master/">聚缘阁</a>、<a href="https://github.com/gfw-breaker/banned-news3">禁闻聚合</a>、<a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/神州网页版.zip">神州网页版</a>
+网页看新闻：<a href="https://github.com/tui590285/www">新闻热点</a>、<a href="https://bitbucket.org/ewwmakye/mo/src/master/">聚缘阁</a>、<a href="https://github.com/gfw-breaker/banned-news3">禁闻聚合</a>、<a href="https://cdn.jsdelivr.net/gh/woyaofq/xz/解压.zip">神州网页版</a>
 <p><a href="https://github.com/Alvin9999/new-pac/wiki">一键翻墙浏览器</a><p>              
 <p>如有疑问可联系邮箱woyaofq@gmx.com </a></p>	

@@ -14,11 +14,10 @@
 |  ----  | ----   | ----  |----  |  
 | 神州明见  | [神州安卓版](https://raw.githubusercontent.com/szmj0/update/main/extras/szmj-v6.7.2023060101.apk) 、[神州TV版](https://raw.githubusercontent.com/szmj0/update/main/extras/szmjtv-v6.7.2023060101.apk)| - |  -|  
 | 退党中心  | [退党中心](https://gitlab.com/woyaofq/xz/-/raw/master/td-sj.zip) | [退党中心](https://github.com/woyaofq/xz/releases/download/td/td-pc.zip) |  [退党中心](https://github.com/woyaofq/td-ios) |  
-| 希望之声  | - | - |  [SOH](https://apps.apple.com/us/app/soh/id830022184?ign-mpt=uo%3D4)|  
 | epoch  | [epoch](https://github.com/fqcdn/fq/releases/download/v1.0.0/fq.apk) | [epoch](https://github.com/fqcdn/fq/releases/download/v1.0.0/epoch_access-1.0.1-win32.zip)  |   -|  
 
 <img src="https://gitlab.com/woyaofq/xz/-/raw/master/3.jpg">
 
-网页看新闻：<a href="https://github.com/uuu3/u/blob/master/u.md?dwpvo#1">新闻热点</a>、<a href="https://raw.githubusercontent.com/szmj0/update/main/extras/SZZD_PC/szmjweb.3.0.zip">神州网页版</a>
+网页看新闻：<a href="https://gitlab.com/shenzhouzhengdao/w/blob/master/README.md">新闻热点</a>、<a href="https://raw.githubusercontent.com/szmj0/update/main/extras/SZZD_PC/szmjweb.3.0.zip">神州网页版</a>
 <p><a href="https://github.com/Alvin9999/new-pac/wiki">一键翻墙浏览器</a><p>              
 <p>如有疑问可联系邮箱woyaofq@gmx.com </a></p>

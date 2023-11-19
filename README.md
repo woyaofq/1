@@ -12,7 +12,7 @@
 
 |  工具  | 安卓版  | 电脑版  | 苹果版  |  
 |  ----  | ----   | ----  |----  |  
-| 神州明见  | [神州安卓版](https://raw.githubusercontent.com/szmj0/update/main/extras/szmj-v6.7.2023060101.apk) 、[神州TV版](https://raw.githubusercontent.com/szmj0/update/main/extras/szmjtv-v6.7.2023060101.apk)| - |  -|  
+| 神州明见  | [神州安卓版](https://github.com/szmj0/update/raw/main/extras/szmj_v6.8.2023091301.apk) 、[神州TV版](https://github.com/szmj0/update/raw/main/extras/szmjtv_v6.8.2023091301.apk)| - |  -|  
 | 退党中心  | [退党中心](https://gitlab.com/woyaofq/xz/-/raw/master/td-sj.zip) | [退党中心](https://github.com/woyaofq/xz/releases/download/td/td-pc.zip) |  [退党中心](https://github.com/woyaofq/td-ios) |  
 | epoch  | [epoch](https://github.com/fqcdn/fq/releases/download/v1.0.0/fq.apk) | [epoch](https://github.com/fqcdn/fq/releases/download/v1.0.0/epoch_access-1.0.1-win32.zip)  |   -|  
 

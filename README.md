@@ -18,6 +18,7 @@
 
 <img src="https://gitlab.com/woyaofq/xz/-/raw/master/3.jpg">
 
-网页看新闻：<a href="https://gitlab.com/shenzhouzhengdao/w/blob/master/README.md">新闻热点</a>、<a href="https://raw.githubusercontent.com/szmj0/update/main/extras/SZZD_PC/szmjweb.3.0.zip">神州网页版</a>
+网页看新闻：<a href="https://cuyou.github.io/">神州明见广传平台 </a> 、
+<a href="https://gitlab.com/shenzhouzhengdao/w/blob/master/README.md">新闻热点</a>、<a href="https://raw.githubusercontent.com/szmj0/update/main/extras/SZZD_PC/szmjweb.3.0.zip">神州网页版</a>
 <p><a href="https://github.com/Alvin9999/new-pac/wiki">一键翻墙浏览器</a><p>              
 <p>如有疑问可联系邮箱woyaofq@gmx.com </a></p>

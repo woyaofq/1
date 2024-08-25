@@ -2,7 +2,7 @@
 </a><strong>真实新闻:</strong>
 </h2>
 <p><details><summary>网页版</a>&nbsp;&nbsp; :arrow_double_down: </p></summary>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://26bb20.wanpao.xyz/TMGdB#h84p8nl4">神州明见广传平台</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://26bb20.wanpao.xyz/TMGdB#h84p8nl4">神州明见</a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://4t2zh2.jitec.online/SuAk6#20ll0448">动态网</a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://060j08.kangdi.site/gyUJx#6664ppxt">干净世界</a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/shenzhouzhengdao/w/blob/master/README.md#i">新闻热点</a></p>

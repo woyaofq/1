@@ -4,13 +4,13 @@
         <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.ap-east-1.amazonaws.com/tc19/cet.html">大纪元新闻网 </a></p>
         <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.ap-east-1.amazonaws.com/tc19/cnd.html">新唐人电视台 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93">直翻海外 </a></p>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://j422l4.xcstd.rocks/RzrqG?0608zrn6">神州明见 </a></p>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://x22x4n.pandeng.store/5RxVt?0rh80z2t">动态网 </a></p>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://th02r8.tjnb.art/919CW?2dn20fvr">畅游真相 </a></p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://0z88pr.ccwttdkioln.shop/RzrqG?bb0h4482">神州明见 </a></p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://zr26vv.rtfxn8.shop/5RxVt?r06ffz4p">动态网 </a></p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://28xlb6.bahje.space/919CW?64r8v486">畅游真相 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/szmj0/update/raw/main/extras/SZZD_PC/szmjweb.3.0.zip">神州html网页版</a></p>
 <p>安卓版</a>&nbsp;&nbsp; :arrow_double_down: </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/szmj0/update/raw/refs/heads/main/extras/szmj_7.1.2025052101.apk">神州明见</a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/szmj0/update/raw/refs/heads/main/extras/szmjtv_v7.1.2025052101.apk">神州TV版 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/szmj0/update/raw/refs/heads/main/extras/szmjtv_v7.2.2025121701.apk">神州TV版 </a></p>
 <hr>
 
 ### 免费翻墙软件：

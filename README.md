@@ -4,9 +4,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.us-west-1.amazonaws.com/tc-vn/cnd.html">新唐人电视台 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.us-west-1.amazonaws.com/tc-vn/chp.html">希望之声 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Alvin9999-newpac/fanqiang/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93">直翻海外 </a></p>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://8ldv8d.sweqahfs.shop/RzrqG?0db86826">神州明见 </a></p>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://86b4v6.hvioieh.shop/5RxVt?f44804r6">动态网 </a></p>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://j024bn.jswcxce.store/919CW?dp0r462p">畅游真相 </a></p>
+   
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/szmj0/update/raw/main/extras/SZZD_PC/szmjweb.3.0.zip">神州html网页版</a></p>
 <p>安卓版</a>&nbsp;&nbsp; :arrow_double_down: </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/szmj0/update/raw/refs/heads/main/extras/szmj_7.1.2025052101.apk">神州明见</a></p>
@@ -19,7 +17,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/wujieliulan/download/raw/master/u.apk">无界VPN版 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/woyaofq/xz/raw/refs/heads/master/fgvpn.apk">自由门 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.downloadnth.com/nthlink-android-current.apk">nthlink </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/ProtonVPN/android-app/releases/download/5.15.70.0/ProtonVPN-5.15.70.0.605157000.-production-vanilla-direct-release.apk">ProtonVPN </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/ProtonVPN/android-app/releases/download/5.17.21.0/ProtonVPN-5.17.21.0.605172100.-production-vanilla-direct-release.apk">ProtonVPN </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/woyaofq/xz/raw/refs/heads/master/PsiphonAndroid.apk">赛风 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://downloads.leap.se/RiseupVPN/android/RiseupVPN-Android-latest.apk">RiseupVPN </a></p>
 
@@ -29,7 +27,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/woyaofq/xz/raw/refs/heads/master/fg805p.zip">自由门 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.downloadnth.com/nthlink-win64-current.exe">nthlink（64位） </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.downloadnth.com/nthlink-win32-current.exe">nthlink（32位） </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/woyaofq/xz/raw/refs/heads/master/psiphon3.rar">赛风</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/woyaofq/xz/raw/refs/heads/master/psiphon3.zip">赛风</a></p>
 
 
 <p>苹果版</a>&nbsp;&nbsp; :arrow_double_down: </p>
